@@ -14,12 +14,12 @@
 
 ## 🏫 Course Philosophy: Athletic Training 🏋️‍♂️
 
+![Athletic Training](course_philosophy_athletic_training.png)
+
 We believe that coding is a physical skill that requires muscle memory.
 *   **20 Labs/Week**: Just like doing reps in the gym.
 *   **Visual Feedback**: We start with Turtle Graphics because if you can *see* your logic errors, you can fix them.
-*   **AI-Assisted**: Learn to prompt, refactor, and architect with LLMs (Gemini/ChatGPT).
-
-![Athletic Training](course_philosophy_athletic_training.png)
+*   **AI-Assisted**: Learn to prompt, refactor, and architect with LLMs (e.g., Gemini/ChatGPT).
 
 ---
 
@@ -52,4 +52,5 @@ This course uses the **"Keyword Sandwich"** method for non-native English speake
 ---
 
 *"Talk is cheap. Show me the code." - Linus Torvalds*
+
 
