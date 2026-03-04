@@ -25,7 +25,7 @@ We believe that coding is a physical skill that requires muscle memory.
 
 ## 📅 Course Roadmap
 
-### Phase 1: Visual Python (The Foundation)
+### Phase 1: Python 101, Data? Analysis? Data Analysis? (The Foundation)
 
 ### Phase 2: Data Processing (The Core)
 
@@ -52,5 +52,6 @@ This course uses the **"Keyword Sandwich"** method for non-native English speake
 ---
 
 *"Talk is cheap. Show me the code." - Linus Torvalds*
+
 
 
