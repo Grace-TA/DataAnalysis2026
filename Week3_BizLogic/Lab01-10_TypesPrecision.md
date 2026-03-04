@@ -4,7 +4,7 @@
 
 ### 🧪 Lab 01: Integer vs Float Precision (整數與浮點數精準度) 🔢
 
-
+<img width="850" height="420" alt="image" src="https://github.com/user-attachments/assets/7bec59dd-ffdf-436c-9965-ecfd63ff88b9" />
 
 
 ### Reference: Theme Change
